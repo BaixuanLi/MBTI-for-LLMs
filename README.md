@@ -1,6 +1,6 @@
 # 👨‍⚕️ MBTI-type questionnaire (simplified) for LLMs 🦙
 
-📢 This is a **simplified MBTI-type questionnaire** designed to test LLMs.
+📢 This is a **simplified MBTI-type questionnaire** designed to test LLMs. After completing the questionnaire, tally the responses and take the most frequent result from each category (I:E, N:S, F:T, J:P) by running `get_result.py`.
 
 🛎️ This repository now supports: **English** (en), **Chinese** (zh).
 
